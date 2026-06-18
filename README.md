@@ -13,3 +13,4 @@ This repository contains my daily Java practice as I build my programming fundam
 ✅ Day 5 - Arrays  
 ✅ Day 6 - Strings and String Manipulation  
 ✅ Day 7 - Revision, Problem Solving and GitHub Portfolio Setup
+✅ Day 8 - 2D Arrays, Matrix Traversal using nested loops, Transpose, Diagonal Sum  
